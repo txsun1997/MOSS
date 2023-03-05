@@ -11,4 +11,4 @@ Code and model checkpoints will be publicly available in March 2023.
 
 - We are pushing forward to host a demo on huggingface.
 
-- We are developing a new version of MOSS (ver: 0.0.3), which would be better at Chinese understanding and generation, and be augmented with a large number of external tools.
+- We are developing a new version of MOSS (ver: 0.0.3), which would be better at Chinese understanding and generation, and be augmented with a large number of external tools such as search engine.
