@@ -1,7 +1,7 @@
 # MOSS
 MOSS is a conversational language model like ChatGPT.
 
-Code and model checkpoints will be publicly available in March 2023.
+Code and model checkpoints will be publicly available in April 2023.
 
 ## Update
 
